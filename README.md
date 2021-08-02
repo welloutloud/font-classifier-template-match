@@ -13,13 +13,13 @@
 
 
 ### To generate Template Dataset:
-FontClassification\Source\createDataForTemplates.py
+Source\createDataForTemplates.py
 
 
 ### To generate Test Set:
-FontClassification\Source\testDataGenerator.py
+Source\testDataGenerator.py
 
 
 ### To check classification:
-FontClassification\Source\fontClassifier.py
+Source\fontClassifier.py
 Currently the threshold is set at 90%.
